@@ -72,6 +72,4 @@ if __name__ == '__main__':
 
     # Формирование итогового файла с ответами
     answer_csv = pd.DataFrame(answer, columns=['is_canceled'])
-    # answer_csv.reset_index(inplace=True)
-    # answer_csv.rename(columns={'index': 'Index_Column'}, inplace=True)
     answer_csv.to_csv('answer.csv', index_label='index')
