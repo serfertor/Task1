@@ -4,10 +4,13 @@
 Для запуска требуется: Python 3.12, установить библиотеки из файла requirements.txt и запустить файл main.py.
 
 ![image](https://github.com/serfertor/Task1/assets/37975885/2d721d41-222c-4aa5-a71c-efaa26282c60)
+
 Скриншот 1 - Структура проекта
 
 ![image](https://github.com/serfertor/Task1/assets/37975885/89f3edc8-f1a0-44d8-b9ae-b6b994a63d18)
+
 Скриншот 2 - Выходной файл
 
 ![image](https://github.com/serfertor/Task1/assets/37975885/e505e1c5-e382-4079-8a3b-9d44b0bd0833)
+
 Скриншот 3 - Точность модели после обучения
